@@ -1,0 +1,55 @@
+body {
+    font-family: 'Comic Sans MS', cursive;
+    background-color: #ffcc00;
+    color: #6600cc;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #ff3366;
+    text-decoration: underline;
+}
+
+p {
+    background-color: #ccffcc;
+    border: 5px solid #9900cc;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+button {
+    background-color: #00ccff;
+    color: #ffffff;
+    border: 2px solid #ff0000;
+    padding: 8px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: Impact, fantasy;
+}
+
+a {
+    text-decoration: line-through;
+    color: #009933;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ff6600;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: #ffff00;
+    border: 10px dashed #ff00ff;
+    transform: rotate(20deg);
+}
+
+}
