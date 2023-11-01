@@ -22,4 +22,5 @@ We look forward to seeing what ugly phoenix rises from this repo's ashes. Good l
 * Adding ugly photos is obviously fun, but not particularly creative. Think of something weird you could do to the content that's already there!
 * If your css isn't applying, check:
     * that your selector is working... try making the background color black or the text color red so that you know that some basic, easily visible rule is applying. If not, then you're not targeting the visual element correctly!
-    * that your property name isn't wrong--if you're able to change _something_ about the visual element, then the issue is in what you're trying to change.
+    * that your property name isn't wrong--if you're able to change _something_ about the visual element, then the issue is in what you're trying to change.# boxboxer
+# boxboxer
